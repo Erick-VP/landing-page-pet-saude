@@ -4,7 +4,7 @@
 
 ## Descrição
 
-Landing page feita para o projeto "PET-Saúde" onde *
+Landing page feita para o projeto "PET-Saúde" onde reside o resumo do projeto e suas especificações.
 
 ## Tecnologias Utilizadas
 
